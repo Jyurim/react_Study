@@ -5,7 +5,7 @@
 2. 리액트에서 setState 메소드를 활용해야 상태변경 가능  
 3. 변경은 순수함수로만 가능하다  
 
-![리덕스-상태관리-단계.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d645c21-a829-459d-90e3-d76a47ad220c/eb17dac8-9435-47f8-ba9b-18959d73d415/%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%86%A8%E1%84%89%E1%85%B3-%E1%84%89%E1%85%A1%E1%86%BC%E1%84%90%E1%85%A2%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5-%E1%84%83%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A8.png)  
+![리덕스-상태관리-단계](https://github.com/jmlee119/react_Study/assets/68285285/e5fd4089-8a69-43c8-8cd4-7091f5e808c3)
 
 스토어 (store) : 상태가 관리되는 공간  
 
