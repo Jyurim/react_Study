@@ -37,8 +37,8 @@ boolean 값을 받아서 상태를 업데이트하는 함수 를 나타내는 �
 `useState` 와 `SetStateAction` 다른점 
 
 ⇒ `useState`는 React에서 상태를 다루는 함수이고, `SetstateAction`은 TypeScript에서 타입을 정의할 때 사용되는 타입
+![IMG_50721E208EBA-1](https://github.com/jmlee119/react_Study/assets/68285285/dab24593-95b5-4590-b6bc-9287cf6b9c15)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d645c21-a829-459d-90e3-d76a47ad220c/8e490bb9-1595-4e74-ba90-e0066ddc30f8/Untitled.jpeg)
 
 `useContext` 라는 Hook을 사용하여 Context에 넣은 값에 바로 접근할 수 있다
 
