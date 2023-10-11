@@ -1,4 +1,4 @@
-```jsx
+```tsx
 const requestCameraPermission = async () => {
   try {
     const granted = await PermissionsAndroid.request(
@@ -22,7 +22,6 @@ const requestCameraPermission = async () => {
     console.warn(err);
   }
 };
-
 ```
 
 안드로이드에서 앱 실행시 권한 요청을 한다. 
