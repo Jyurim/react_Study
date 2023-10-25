@@ -104,10 +104,6 @@ Google- services 를 이용하여 firebase 연동
 
 firebase에 fcm 내용 저장
 
-![스크린샷 2023-10-23 오후 3.15.52.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d645c21-a829-459d-90e3-d76a47ad220c/5b6b67c4-e31c-4586-b6d6-fae6714b8988/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.15.52.png)
-
-node_modules/expo-notification 중 사용예시
-
 ```jsx
 Notifications.setNotificationHandler({
   handleNotification: async () => ({
