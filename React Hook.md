@@ -149,7 +149,7 @@ const [refreshing, setRefreshing] = useState(false);
 ---
 
 # useContext
-[Context API 참고] (https://github.com/jmlee119/react_Study/blob/main/State%20Management/Context%20API.md)   
+[Context API 참고](https://github.com/jmlee119/react_Study/blob/main/State%20Management/Context%20API.md)   
 Redux 등과 비슷하게 여러 컴포넌트 간 상태를 효율적으로 공유할 수 있는 API를 제공한다.
 
 일반적인 React에서 데이터는 위에서 아래로 (상위 컴포넌트에서 하위 컴포넌트로) props를 통해 전달되지만 App 컴포넌트에서 특정 컴포넌트로 상태를 전달하고 싶은데 특정 컴포넌트가 너무 깊이 있을 경우 props를 통해 중간 컴포넌트에 일일이 전달하는 과정이 번거로울 수 있다.
