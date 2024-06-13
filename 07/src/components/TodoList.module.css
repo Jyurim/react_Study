@@ -1,0 +1,35 @@
+.container {
+  background-color: #ffffff;
+  padding: 40px 25px;
+  border-radius: 8px;
+  width: 325px;
+  height: 637px;
+}
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #35383e15;
+  margin-bottom: 1rem;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #4f4f4f;
+}
+
+.enter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* width: 100%; */
+  /* padding: 10px; */
+  border-radius: 8px;
+}
+
+input {
+  accent-color: #4f4f4f;
+}
